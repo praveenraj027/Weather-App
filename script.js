@@ -1,4 +1,4 @@
-    const apiKey = "{API_key}"; 
+    const apiKey = "e33354f16254687a15b0f926b90ba40d"; 
 
     async function getWeather() {
         const city = document.getElementById("city").value.trim();
